@@ -17,25 +17,35 @@
     
  }
  .timebox{
-    background-color: rgb(49, 207, 83);
+    /* background-color: rgb(49, 207, 83); */
     height: 5rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10rem;
+    gap: 8rem;
+    font-size: 2rem;
+   
+  
  }
  .timming{
-    background-color: rgb(255, 251, 0);
+    /* background-color: rgb(255, 251, 0); */
+    
 
  }
  #timmer{
-    background-color: rgb(255, 115, 0);
+    /* background-color: rgb(255, 115, 0); */
+   color: #fff;
+      font-family: emoji;
  }
 .heading{
-    background-color: pink;
+    /* background-color: pink; */
+    color: #000;
     display: flex;
    align-items: end;
    justify-content: center;
     height: 25rem;
+    font-size: 7rem;
+   font-family: cursive;
+    font-weight: bolder;
     
  }
