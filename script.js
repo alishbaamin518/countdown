@@ -6,7 +6,7 @@ let Seconds = document.getElementById("seconds")
 
 //set a time that time i want to end
 //Date capital and also space
-let targetdate = new Date("march 18 2026 00:00:00").getTime();
+let targetdate = new Date("febuary 17 2026 00:00:00").getTime();
 //console.log(targetdate);
  function timer () {
     let currentDate = new Date().getTime();
