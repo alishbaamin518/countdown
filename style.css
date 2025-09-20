@@ -29,10 +29,13 @@
  }
  .timming{
     /* background-color: rgb(255, 251, 0); */
+     background-color: rgba(255, 115, 0, 0.171);
+     text-align: center;
+     border-radius: 15px;
     
 
  }
- #timmer{
+ .timmer{
     /* background-color: rgb(255, 115, 0); */
    color: #fff;
       font-family: emoji;
